@@ -1,2 +1,2 @@
-# superfly-css-components-navigation-bar
+# superfly-css-component-navigation-bar
 Navigation bar component
